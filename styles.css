@@ -372,5 +372,10 @@ form {
     
     .divblock2 {
     margin-left: 0px;
+    
+    .ps5sideimg {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
 
 }
